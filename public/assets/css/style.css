@@ -1,0 +1,60 @@
+li {
+    padding: 5 px;
+    margin: 5 px;
+    background: #faebd7;
+    width: 200 px;
+}
+
+.label {
+    font - weight: bold;
+}
+
+.create - update - form {
+        padding: 5 px;
+        margin: 5 px;
+        background: aqua;
+        width: 400 px;
+        position: fixed;
+        bottom: 20 px;
+        right: 40 % ;
+    }
+
+    .form - group {
+        margin - bottom: 5 px;
+        width: 200 px;
+    }
+
+img {
+    position: fixed;
+    right: 43 % ;
+}
+
+#
+right {
+    display: inline - block;
+    position: fixed;
+    left: 50 % ;
+    right: 40 % ;
+    top: 20 % ;
+
+}
+
+#
+left {
+    float: left;
+    position: fixed;
+    right: 51 % ;
+    top: 20 % ;
+
+
+}
+
+textarea {
+    width: 390 px;
+    height: 150 px;
+}
+
+#
+btn - 2 {
+    margin - left: 160 px;
+}
