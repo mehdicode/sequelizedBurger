@@ -8,7 +8,7 @@ var j = 0;
 
 
 router.get("/", function(req, res) {
-
+    
 
     db.Burger.findAll({
             include: [db.Customer]
@@ -22,7 +22,7 @@ router.get("/", function(req, res) {
 
         });
 
-
+       
 });
 
 router.post("/", function(req, res) {
